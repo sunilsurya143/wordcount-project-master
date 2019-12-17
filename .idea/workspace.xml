@@ -8,8 +8,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Q56Rur6lOSJ9bpovg8pTFZlWhs" />
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -36,5 +41,15 @@
       <updated>1567048104317</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1576579463481">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="387" y="190" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1576579463481" />
+    <state x="354" y="166" key="git4idea.merge.GitPullDialog" timestamp="1576579491080">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="354" y="166" key="git4idea.merge.GitPullDialog/0.0.1360.728@0.0.1360.728" timestamp="1576579491080" />
   </component>
 </project>
